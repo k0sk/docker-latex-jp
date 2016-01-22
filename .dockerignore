@@ -1,0 +1,12 @@
+# Git
+.git
+.gitignore
+
+# Files
+bin
+README.txt
+
+# Mac OS X
+.DS_Store
+._*
+
