@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+docker run --rm \
+           -v /etc/localtime:/etc/localtime:ro \
+           -v `pwd`:/data \
+           kosk/latex-jp $@
