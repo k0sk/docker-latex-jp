@@ -4,7 +4,7 @@ LaTeX-PDF変換のためのDockerコンテナ
 ## インストール
 ### ファイルの取得
 ```
-git pull https://github.com/k0sk/docker-latex-jp
+git clone https://github.com/k0sk/docker-latex-jp
 chmod +x <PATH_TO_REPO>/docker-latex-jp/bin/docker-latex
 ```
 
